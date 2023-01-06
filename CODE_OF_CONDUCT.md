@@ -1,5 +1,4 @@
 # Contributor Covenant Code of Conduct
-change for change
 
 ## Our Pledge
 
