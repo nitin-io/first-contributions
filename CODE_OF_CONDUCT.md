@@ -1,5 +1,4 @@
 # Contributor Covenant Code of Conduct
-why change this?
 
 ## Our Pledge
 
