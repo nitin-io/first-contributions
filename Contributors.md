@@ -18,7 +18,7 @@
 - [Frostbyte]
 - [Tommy]
 - 1 change s
-- [Pujya Preyans]0
+- [Pujya Preyans]
 - [Jesus Elizalde](https://github.com/Jesus-Elizalde)
 - [Fergus Maclean](https://github.com/fergusmac1)
 - [Rizkian Akbar Juniansyah](https://github.com/rizkianakbar)
