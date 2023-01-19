@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Nitin Chaudhary](https://github.com/nitin-io)
 - [Aliraza Khan] (https://github.com/itsarkcodes)
 - [Sanket patil](https://github.com/sanket1one)
 - [Eliza Huang](https://github.com/elizahuang/)
